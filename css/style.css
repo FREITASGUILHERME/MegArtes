@@ -1,3 +1,25 @@
-h1 {
-    color: black;
+/* Style Geral */
+
+body {
+    font-family: 'Roboto', sans-serif;
 }
+
+.row {
+    margin: 0;
+}
+
+.container {
+    padding: 70px 0;
+}
+
+p,
+li {
+    color: #ff9cd1;
+    font-size: 20px;
+}
+
+
+/* Fim do Style geral */
+
+
+/**********************/
