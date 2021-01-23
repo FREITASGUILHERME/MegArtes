@@ -14,7 +14,7 @@ body {
 
 p,
 li {
-    color: #ff9cd1;
+    color: #a14c79;
     font-size: 15px;
 }
 
@@ -29,7 +29,7 @@ li {
 
 header,
 .navbar {
-    background-color: #723154;
+    background-color: #ff9cd1;
 }
 
 #nav-container {
