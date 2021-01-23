@@ -40,3 +40,20 @@ header,
 #logo {
     width: 65px;
 }
+
+.navbar-brand {
+    padding: 0;
+    color: #FFF;
+}
+
+.navbar-brand:hover {
+    color: #000000;
+}
+
+.navbar-links a {
+    color: #ff9cd1;
+}
+
+.navbar-expeand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
